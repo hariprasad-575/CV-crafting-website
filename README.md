@@ -14,7 +14,7 @@ This project is a CV crafting website built with HTML, CSS, and JavaScript. The 
 
 ## Sample Output
 
-![Sample Resume Output]("Cv-crafting-website\assets\images\dublin-resume-templates.png")
+![Sample Resume Output](Cv-crafting-website\assets\images\dublin-resume-templates.png)
 
 ## Steps to Follow
 
